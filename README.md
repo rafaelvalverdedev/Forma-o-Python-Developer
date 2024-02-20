@@ -1,4 +1,4 @@
-# Forma o Python Developer
+# Formação Python Developer
 Atividade de acompanhamento para o curso de Formação Python Developer - DIO.me
 
 <b>Detalhes da formação</b>

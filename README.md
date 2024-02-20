@@ -11,7 +11,7 @@ Modele seu banco de dados com a ferramenta do Sqlalchemy e crie aplicações ain
 <br>
 ⚠️Pré-requisitos: Conhecimentos básicos em Lógica de Programação e Pensamento Computacional
 <br>
-<b>Atividades:>/b>
+<b>Atividades:</b>
 Desafio de Código: Coloque em prática todo o conhecimento adquirido nas aulas e teste o seu conhecimento na resolução de um desafio.
 <br>
 Desafio de Projeto: Construa o seu portfólio construindo projetos práticos com o conhecimento adquirido ao longo das aulas.
